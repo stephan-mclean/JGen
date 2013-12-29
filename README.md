@@ -6,8 +6,8 @@ where eq hc and tos represent options to include equals, hashCode and toString m
 Example: python jgen Point -var [pri][i][x] -var [pri][i][y] -mtd [v][setX][[i][x]] -eq -tos
 
 where:
-i = int
-d = double
-b = boolean
-v = void
-s = string
+i = int.
+d = double.
+b = boolean.
+v = void.
+s = string.
